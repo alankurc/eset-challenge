@@ -1,5 +1,6 @@
 # ESET | Challenge
-> This challenge consists in... Agregate mensaje
+> This challenge consist to create an app to create, search and see the employees for a company.
+Also I build a responsive newsletter with cross platform compatibility.
 
 ## 🖥 Installation
 ### First you have to run the database migrations before the project can run:
