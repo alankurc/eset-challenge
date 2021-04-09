@@ -1,5 +1,5 @@
 # ESET | Challenge
-> This challenge consists in the creation an app to create, search and see the employees for a company.
+> This challenge consists in the creation of an app to create, search and see the employees for a company.
 Also I build a responsive newsletter with cross platform compatibility.
 
 ## 🖥 Installation
